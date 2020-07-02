@@ -15,6 +15,11 @@ int main() {
 	int a;
 	cout << "Цифру гани, ща факториал считать буим: ";
 	cout << "15 ";
+	cout << "15 ";
+	cout << "15 ";
+	cout << "15 ";
+	cout << "15 ";
+	cout << "15 ";
 	cin >> a;
 	cout << fact(a) << endl;
 }
